@@ -12,3 +12,5 @@ leetcode做题记录（C++）
 |  No.  | Title           |    Solution    |
 |-----|---------------- | -------------- |
 | 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/) | [C++](./561_array_partition_i.md) |
+| 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/) | [C++](./832_flipping_an_image.md) |
+
