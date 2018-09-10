@@ -15,6 +15,4 @@ leetcode做题记录（C++）
 | 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/) | [C++](./561_array_partition_i.md) |
 | 867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/) | [C++](./867_transpose_matrix.md) |
 | 766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/) | [C++](./766_toeplitz_matrix.md) |
-|  |  |  |
-
-
+| 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/) | [C++](./566_reshape_the_matrix.md) |
