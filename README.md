@@ -9,6 +9,6 @@ leetcode做题记录（C++）
 
 
 ## Array
-|  #  | Title           |    Solution    |
+|  No.  | Title           |    Solution    |
 |-----|---------------- | -------------- |
 | 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/) | [C++](./561_array_partition_i.md) |
