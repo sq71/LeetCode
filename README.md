@@ -5,7 +5,6 @@ leetcode做题记录（C++）
 
 ## Algorithms
 
-
 * [Array](https://github.com/sq71/LeetCode#array)
 
 
