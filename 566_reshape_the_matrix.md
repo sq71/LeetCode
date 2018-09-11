@@ -33,6 +33,7 @@ public:
 ```
 
 改进：
+关键是找到res中每一个位置与原向量相应位置的对应关系
 ```
 class Solution {
 public:
