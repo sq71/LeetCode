@@ -11,7 +11,7 @@ leetcode做题记录（C++）
 ## Array
 |  No.  | Title           |    Solution    |
 |-----|---------------- | -------------- |
-| 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/) | [C++](./832_sort_array_by_parity.md) |
+| 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/) | [C++](./905_sort_array_by_parity.md) |
 | 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/) | [C++](./832_flipping_an_image.md) |
 | 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/) | [C++](./561_array_partition_i.md) |
 | 867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/) | [C++](./867_transpose_matrix.md) |
