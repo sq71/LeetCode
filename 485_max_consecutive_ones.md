@@ -49,3 +49,6 @@ public:
     }
 };
 ```
+把if(n == 1)替换成if(n & 1)会快一点：
+
+Runtime: 24 ms -> 20 ms
