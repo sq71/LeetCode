@@ -26,6 +26,10 @@ public:
 发现：使用for(a:A)比使用for(; ;)要慢。
 
 
+STL中有求和算法accumulate：
+
+int sum =  accumulate(vec.cbegin(), vec.cend(), 0);
+
 #### 方法2：
 使用set
 
