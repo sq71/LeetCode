@@ -21,6 +21,7 @@ leetcode做题记录（C++）
 | 888 | [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/description/) | [C++](./888_fair_candy_swap.md) |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) | [C++](./485_max_consecutive_ones.md) |
 | 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) | [C++](./695_max_area_of_island.md) |
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [C++](./283_move_zeroes.md) |
 
 
 
