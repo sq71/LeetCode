@@ -23,4 +23,6 @@ leetcode做题记录（C++）
 | 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) | [C++](./695_max_area_of_island.md) |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [C++](./283_move_zeroes.md) |
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | [C++](./448_find_all_numbers_disappeared_in_an_array.md) |
+| 169 | [Majority Element](https://leetcode.com/problems/majority-element/description/) | [C++](./169_majority_element.md) | 
+
 
