@@ -24,8 +24,7 @@ leetcode做题记录（C++）
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [C++](./283_move_zeroes.md) |
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | [C++](./448_find_all_numbers_disappeared_in_an_array.md) |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/description/) | [C++](./169_majority_element.md) | 
-| 122 | [Best Time to Buy and Sell Stock II
-](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | [C++](./122_best_time_to_buy_and_sell_stock_ii.md) | 
+| 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | [C++](./122_best_time_to_buy_and_sell_stock_ii.md) | 
 
 
 
