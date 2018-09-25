@@ -16,3 +16,21 @@ public:
     }
 };
 ```
+
+#### 方法2 
+使用set
+
+```
+class Solution {
+public:
+    bool containsDuplicate(vector<int>& nums) 
+    {
+        set<int> s(nums.begin(), nums.end());
+        return nums.size() != s.size();
+    }
+};
+```
+
+#### 方法3
+哈希表
+
