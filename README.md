@@ -27,4 +27,5 @@ leetcode做题记录（C++）
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | [C++](./122_best_time_to_buy_and_sell_stock_ii.md) | 
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [C++](./217_contains_duplicate.md) | 
 | 717 | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) | [C++](./717_1-bit_and_2-bit_characters.md) | 
+| 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [C++](./167_two_sum_ii_input_array_is_sorted.md) | 
 
