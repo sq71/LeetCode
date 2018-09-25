@@ -26,4 +26,5 @@ leetcode做题记录（C++）
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/description/) | [C++](./169_majority_element.md) | 
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | [C++](./122_best_time_to_buy_and_sell_stock_ii.md) | 
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [C++](./217_contains_duplicate.md) | 
+| 717 | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) | [C++](./717_1-bit_and_2-bit_characters.md) | 
 
