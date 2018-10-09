@@ -30,5 +30,6 @@ leetcode做题记录（C++）
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [C++](./167_two_sum_ii_input_array_is_sorted.md) | 
 | 697 | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array/description/) | [C++](./697_degree_of_an_array.md) | 
 | 661 | [Image Smoother](https://leetcode.com/problems/image-smoother/description/) | [C++](./661_image_smoother.md) | 
+| 268 | [Missing Number](https://leetcode.com/problems/missing-number/description/) | [C++](./268_missing_number.md) | 
 
 
