@@ -31,5 +31,5 @@ leetcode做题记录（C++）
 | 697 | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array/description/) | [C++](./697_degree_of_an_array.md) | 
 | 661 | [Image Smoother](https://leetcode.com/problems/image-smoother/description/) | [C++](./661_image_smoother.md) | 
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/description/) | [C++](./268_missing_number.md) | 
-
+| 830 | [Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/description/) | [C++](./830_positions_of_large_groups.md) | 
 
