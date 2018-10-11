@@ -32,4 +32,6 @@ leetcode做题记录（C++）
 | 661 | [Image Smoother](https://leetcode.com/problems/image-smoother/description/) | [C++](./661_image_smoother.md) | 
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/description/) | [C++](./268_missing_number.md) | 
 | 830 | [Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/description/) | [C++](./830_positions_of_large_groups.md) | 
+| 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/) | [C++](./628_maximum_product_of_three_numbers.md) | 
+
 
