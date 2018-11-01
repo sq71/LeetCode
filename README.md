@@ -33,5 +33,6 @@ leetcode做题记录（C++）
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/description/) | [C++](./268_missing_number.md) | 
 | 830 | [Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/description/) | [C++](./830_positions_of_large_groups.md) | 
 | 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/) | [C++](./628_maximum_product_of_three_numbers.md) | 
+| 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Java](./746_min_cost_climbing_stairs.md) | 
 
 
