@@ -42,7 +42,8 @@ public:
         int i=0,j=0;
         while(i<S.size())
         {
-            while(i<S.size() && S[i]==S[j])
+            //while(i<S.size() && S[i]==S[j])
+            while(j<S.size() && S[i]==S[j])
             {
                 j++;
             }
