@@ -1,5 +1,6 @@
 # LeetCode
-leetcode做题记录（C++）
+
+leetcode做题记录。
 
 按照题目分类、每个分类下从易到难顺序做题。
 
