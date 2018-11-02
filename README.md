@@ -37,4 +37,5 @@ leetcode做题记录。
 | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Java](./746_min_cost_climbing_stairs.md) | 
 | 674 | [Longest Continuous increasing subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | [Java](./674_longest_continuous_increasing_subsequence.md) | 
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Java](./118_pascal's_triangle.md) | 
+| 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Java](./27_remove_element.md) |
 
