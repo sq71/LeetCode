@@ -41,4 +41,5 @@ leetcode做题记录。
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Java](./53_maximum_subarray.md) |
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Java](./119_pascal's_triangle_ii.md) |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Java](./35_search_insert_position.md) |
+| 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [C++ / Java](./66_plus_one.md) |
 
