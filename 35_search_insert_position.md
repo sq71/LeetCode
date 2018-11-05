@@ -9,7 +9,7 @@ class Solution {
         while(i <= j)
         {
             //int mid = (i+j)/2;
-            //i和j数值交大是可能溢出，最好使用j-i的方式。
+            //i和j数值较大是可能溢出，最好使用j-i的方式。
             int mid = (j-i)/2+i;
             if(target == nums[mid])
                 return mid;
