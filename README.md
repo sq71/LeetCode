@@ -42,4 +42,5 @@ leetcode做题记录。
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Java](./119_pascal's_triangle_ii.md) |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Java](./35_search_insert_position.md) |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [C++ / Java](./66_plus_one.md) |
+| 747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | [Java](./747_largest_number_at_least_twice_of_others.md) |
 
