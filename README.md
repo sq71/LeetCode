@@ -43,4 +43,5 @@ leetcode做题记录。
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Java](./35_search_insert_position.md) |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [C++ / Java](./66_plus_one.md) |
 | 747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | [Java](./747_largest_number_at_least_twice_of_others.md) |
+| 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Java](./724_find_pivot_index.md) |
 
