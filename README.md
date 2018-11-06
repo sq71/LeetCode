@@ -44,4 +44,5 @@ leetcode做题记录。
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [C++ / Java](./66_plus_one.md) |
 | 747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | [Java](./747_largest_number_at_least_twice_of_others.md) |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Java](./724_find_pivot_index.md) |
+| 849 | [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/) | [Java](./849_maximize_distance_to_closest_person.md) |
 
