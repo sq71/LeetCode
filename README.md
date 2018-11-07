@@ -46,4 +46,5 @@ leetcode做题记录。
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Java](./724_find_pivot_index.md) |
 | 849 | [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/) | [Java](./849_maximize_distance_to_closest_person.md) |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Java](./26_remove_duplicates_from_sorted_array.md) |
+| 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Java](./643_maximum_average_subarray_i.md) |
 
