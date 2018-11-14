@@ -48,4 +48,5 @@ leetcode做题记录。
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Java](./26_remove_duplicates_from_sorted_array.md) |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Java](./643_maximum_average_subarray_i.md) |
 | 840 | [Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/) | [Java](./840_magic_squares_in_grid.md) |
+| 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [Java](./219_contains_duplicate_ii.md) |
 
