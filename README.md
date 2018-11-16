@@ -51,4 +51,5 @@ leetcode做题记录。
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [Java](./219_contains_duplicate_ii.md) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Java](./88_merge_sorted_array.md) |
 | 914 | [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/) | [Java](./914_x_of_a_kind_in_a_deck_of_cards.md) |
+| 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [Java](./605_can_place_flowers.md) |
 
