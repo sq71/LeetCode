@@ -50,4 +50,5 @@ leetcode做题记录。
 | 840 | [Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/) | [Java](./840_magic_squares_in_grid.md) |
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [Java](./219_contains_duplicate_ii.md) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Java](./88_merge_sorted_array.md) |
+| 914 | [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/) | [Java](./914_x_of_a_kind_in_a_deck_of_cards.md) |
 
