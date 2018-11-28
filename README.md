@@ -52,4 +52,5 @@ leetcode做题记录。
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Java](./88_merge_sorted_array.md) |
 | 914 | [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/) | [Java](./914_x_of_a_kind_in_a_deck_of_cards.md) |
 | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [Java](./605_can_place_flowers.md) |
+| 581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/submissions/) | [Java](./581_shortest_unsorted_continuous_subarray.md) |
 
